@@ -448,6 +448,7 @@ dependencies = [
     { name = "scikit-learn" },
     { name = "tensorboard" },
     { name = "tensorboardx" },
+    { name = "torch-summary" },
 ]
 
 [package.metadata]
@@ -459,6 +460,7 @@ requires-dist = [
     { name = "scikit-learn", specifier = ">=1.7.1" },
     { name = "tensorboard", specifier = ">=2.20.0" },
     { name = "tensorboardx", specifier = ">=2.6.4" },
+    { name = "torch-summary", specifier = ">=1.4.5" },
 ]
 
 [[package]]
@@ -2241,6 +2243,15 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/7a/fd/7a5ee21fd08ff70d3d33a5781c255cbe779659bd03278feb98b19ee550f4/tinycss2-1.4.0.tar.gz", hash = "sha256:10c0972f6fc0fbee87c3edb76549357415e94548c1ae10ebccdea16fb404a9b7", size = 87085, upload-time = "2024-10-24T14:58:29.895Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/e6/34/ebdc18bae6aa14fbee1a08b63c015c72b64868ff7dae68808ab500c492e2/tinycss2-1.4.0-py3-none-any.whl", hash = "sha256:3a49cf47b7675da0b15d0c6e1df8df4ebd96e9394bb905a5775adb0d884c5289", size = 26610, upload-time = "2024-10-24T14:58:28.029Z" },
+]
+
+[[package]]
+name = "torch-summary"
+version = "1.4.5"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/ff/2f/57cb3b23bccae7fc639ab7ff8bb78c80f03e8c0a144bbc69bfd26b0757f7/torch_summary-1.4.5.tar.gz", hash = "sha256:44eac21777dbbda7b8404d57a43c09d83fd9c93d0c1f0c960b5083ccb24d6d21", size = 17228, upload-time = "2020-12-24T05:00:32.266Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ca/db/93d18c84f73b214acfa4d18051d6f4263eee3e044c408928e8abe941a22c/torch_summary-1.4.5-py3-none-any.whl", hash = "sha256:6127efb631f34ba8cbd28e92e8f7ddc2903ea0cbc44c80f15b7363b8f558cd8c", size = 16161, upload-time = "2020-12-24T05:00:30.969Z" },
 ]
 
 [[package]]
