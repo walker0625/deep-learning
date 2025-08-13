@@ -12,3 +12,4 @@ wheels/
 runs/
 MNIST/
 cifar-10-batches-py/
+files/
