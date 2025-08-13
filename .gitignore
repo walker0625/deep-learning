@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+runs/
+MNIST/
+cifar-10-batches-py/
