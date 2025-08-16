@@ -9,10 +9,11 @@ wheels/
 # Virtual environments
 .venv
 
-runs/
-MNIST/
+theory/runs/
+model/runs/
+MNIST/raw
 cifar-10-batches-py/
 files/
 bing_image_downloader/
 dataset/
-model/
+pth/
