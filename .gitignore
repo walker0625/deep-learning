@@ -17,3 +17,5 @@ files/
 bing_image_downloader/
 dataset/
 pth/
+chest_xray/
+.DS_Store/
