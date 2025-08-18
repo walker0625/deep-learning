@@ -19,3 +19,4 @@ dataset/
 pth/
 chest_xray/
 .DS_Store/
+api/model
