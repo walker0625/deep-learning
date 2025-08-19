@@ -11,7 +11,7 @@ wheels/
 
 theory/runs/
 model/runs/
-MNIST/raw
+MNIST/raw/
 cifar-10-batches-py/
 files/
 bing_image_downloader/
@@ -19,4 +19,6 @@ dataset/
 pth/
 chest_xray/
 .DS_Store/
-api/model
+api/model/
+model_pth/
+sent_data/
