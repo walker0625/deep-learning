@@ -22,3 +22,5 @@ chest_xray/
 api/model/
 model_pth/
 sent_data/
+docker_model/
+docker_img/
