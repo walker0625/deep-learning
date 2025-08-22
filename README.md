@@ -26,7 +26,7 @@
 
 ### 2. 전이 학습(fine tuning)
 
-  - #### 1) Data(Image) 준비 및 변환
+- #### 1) Data(Image) 준비 및 변환
 
 - #### 2) DataLoader로 변환
 
